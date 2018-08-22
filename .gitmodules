@@ -2,3 +2,7 @@
 	path = themes/hugo-paper
 	url = https://github.com/nanxiaobei/hugo-paper.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:grezar/grezar.github.io.git
+	branch = master
