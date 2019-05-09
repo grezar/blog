@@ -1,4 +1,4 @@
 baseURL = "https://grezar.net/"
 languageCode = "jp-ja"
-title = "コンピューターのことをもっと知りたい"
+title = "grezar.net"
 theme = "hugo-paper"
